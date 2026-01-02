@@ -1,0 +1,94 @@
+# ============================================
+# MAVEN - Output de compilación (CRÍTICO)
+# ============================================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# ============================================
+# NETBEANS - Archivos del IDE
+# ============================================
+nbproject/private/
+nbproject/project.properties
+nbproject/project.xml
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# ============================================
+# JAVA - Archivos compilados
+# ============================================
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# ============================================
+# SISTEMA OPERATIVO
+# ============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# ============================================
+# LOGS Y TEMPORALES
+# ============================================
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+~*
+
+# ============================================
+# ARCHIVOS DE BACKUP/DATOS ORIGINALES
+# ============================================
+# (Archivos que NO quieres subir a GitHub)
+*_backup*
+*_original*
+*_real*
+backup/
+backups/
+
+# ============================================
+# VIRTUAL MACHINE CRASH LOGS
+# ============================================
+hs_err_pid*
+replay_pid*
+
+# ============================================
+# OTHER IDEs (por si usas otros editores)
+# ============================================
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+
+# ============================================
+# BLUEJ
+# ============================================
+*.ctxt
+
+# ============================================
+# MOBILE TOOLS FOR JAVA (J2ME)
+# ============================================
+.mtj.tmp/

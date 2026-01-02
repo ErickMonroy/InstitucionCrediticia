@@ -1,0 +1,16 @@
+Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='sN', edad=23, sexo='Ma', domicilio='cbndjc', numTel='12324', correoElec='dcndjnf'}
+Cliente{nombre='Erick', aPaterno='d', aMaterno='dv', edad=12, sexo='Mas', domicilio='cndknv', numTel='2324', correoElec='dkmskf'}
+Cliente{nombre='Erick', aPaterno='d', aMaterno='dv', edad=12, sexo='Mas', domicilio='cndknv', numTel='2324', correoElec='dkmskf'}
+Cliente{nombre='Daniel', aPaterno='fddf', aMaterno='dcdv', edad=18, sexo='mas', domicilio='cdnkv', numTel='564545', correoElec='dfdg'}
+Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='Santana', edad=12, sexo='Ma', domicilio='csd', numTel='55', correoElec='cnd c'}
+Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='jcndsjc', edad=12, sexo='cdsnc', domicilio='dsf', numTel='55346', correoElec='fdf'}
+Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='sN', edad=12, sexo='MA', domicilio='SC', numTel='123', correoElec='CJSDJC'}
+Cliente{nombre='daniel', aPaterno='Monroy', aMaterno='ss', edad=13, sexo='dsf', domicilio='dvdv', numTel='1213', correoElec='cdvd'}
+Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='jjc', edad=234, sexo='kcmdv', domicilio='cdv', numTel='434', correoElec='dvdv'}
+Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='Santana', edad=20, sexo='Masculino', domicilio='Fr', numTel='5575273', correoElec='erick@gmail.com'}
+Cliente{nombre='Daniel', aPaterno='M', aMaterno='20', edad=234, sexo='cd', domicilio='scv', numTel='553435', correoElec='Dany'}
+Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='Santana', edad=20, sexo='Masculino', domicilio='Sr', numTel='5575364491', correoElec='erick@gmail.com'}
+Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='Santana', edad=20, sexo='Masculino', domicilio='Rosas', numTel='55987623', correoElec='erick@gmail.com'}
+Cliente{nombre='Erick', aPaterno='Monroy ', aMaterno='Santana', edad=34, sexo='Masculino', domicilio='Fr', numTel='55098654', correoElec='ercik@gmail.com'}
+Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='Santana', edad=20, sexo='masculino', domicilio='Fr', numTel='557836537', correoElec='erick@gmail.com'}
+Cliente{nombre='Daniel', aPaterno='M', aMaterno='D', edad=123, sexo='S', domicilio='XS', numTel='2345', correoElec='XSD'}
