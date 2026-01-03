@@ -82,10 +82,10 @@
 
 
 ### 3.3 Registrar Nuevo Cliente 👤 
-<p>Sección para registrar a los nuevos cliente que solicitan un prestamo por primera vez.</p>
+<p>Sección para registrar a los nuevos cliente que solicitan un préstamo por primera vez.</p>
 <div align="center">
   <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Registro_inicial.png?raw=true" alt="Menú" width="600">
-  <p><em>Apartado de Registro inicial</em></p>
+  <p><em>Apartado de Registro Inicial</em></p>
 </div><br>
 
 ### 3.4 Registros de Clientes 📑 
@@ -103,10 +103,10 @@
 </div><br>
 
 ### 3.6 Solicitud de Préstamos 💰
-<p>Apartado que nos permite cálcular y emitir los prestamos, con base a información de historial crediticio</p>
+<p>Apartado que nos permite cálcular y emitir los préstamos, con base a la información de su historial crediticio</p>
 <div align="center">
   <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Solicitar_prestamo.png?raw=true" alt="Menú" width="600">
-  <p><em>Registro y emisión de préstamos.</em></p>
+  <p><em>Registro y Emisión de Préstamos.</em></p>
 </div>
 
 
