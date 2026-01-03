@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/IMG/LOGO.png?raw=true" alt="Logo del Proyecto">
-</div>
+</div><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17-blue" alt="Java Version">
