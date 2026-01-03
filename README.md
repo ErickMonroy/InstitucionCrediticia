@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">PRESTA <br>— AHORRO —</h1> 
 <p align="center">
   Sistema de Gestión Crediticia 
@@ -65,8 +64,4 @@
         <maven.compiler.source>19</maven.compiler.source>
         <maven.compiler.target>19</maven.compiler.target>   
 
-=======
-# InstitucionCrediticia
-Proyecto de Programación Orienta a Objetos:
->>>>>>> 11fe28e19ffc2e1ae04e8c31fbca0b904fb5d38d
 ![Logo del Proyecto](https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Login.png?raw=true)
