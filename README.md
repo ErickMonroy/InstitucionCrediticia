@@ -1,6 +1,6 @@
-<h2 align="center">PRESTA <br>— AHORRO —</h2> 
 <p align="center">
-  Sistema de Gestión Crediticia 
+![Logo del Proyecto](https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/IMG/LOGO.png?raw=true)
+  <br>Sistema de Gestión Crediticia 
 </p>
 
 <p align="center">
