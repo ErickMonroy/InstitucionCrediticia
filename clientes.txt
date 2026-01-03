@@ -1,16 +1,16 @@
-Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='sN', edad=23, sexo='Ma', domicilio='cbndjc', numTel='12324', correoElec='dcndjnf'}
-Cliente{nombre='Erick', aPaterno='d', aMaterno='dv', edad=12, sexo='Mas', domicilio='cndknv', numTel='2324', correoElec='dkmskf'}
-Cliente{nombre='Erick', aPaterno='d', aMaterno='dv', edad=12, sexo='Mas', domicilio='cndknv', numTel='2324', correoElec='dkmskf'}
-Cliente{nombre='Daniel', aPaterno='fddf', aMaterno='dcdv', edad=18, sexo='mas', domicilio='cdnkv', numTel='564545', correoElec='dfdg'}
-Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='Santana', edad=12, sexo='Ma', domicilio='csd', numTel='55', correoElec='cnd c'}
-Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='jcndsjc', edad=12, sexo='cdsnc', domicilio='dsf', numTel='55346', correoElec='fdf'}
-Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='sN', edad=12, sexo='MA', domicilio='SC', numTel='123', correoElec='CJSDJC'}
-Cliente{nombre='daniel', aPaterno='Monroy', aMaterno='ss', edad=13, sexo='dsf', domicilio='dvdv', numTel='1213', correoElec='cdvd'}
-Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='jjc', edad=234, sexo='kcmdv', domicilio='cdv', numTel='434', correoElec='dvdv'}
-Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='Santana', edad=20, sexo='Masculino', domicilio='Fr', numTel='5575273', correoElec='erick@gmail.com'}
-Cliente{nombre='Daniel', aPaterno='M', aMaterno='20', edad=234, sexo='cd', domicilio='scv', numTel='553435', correoElec='Dany'}
-Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='Santana', edad=20, sexo='Masculino', domicilio='Sr', numTel='5575364491', correoElec='erick@gmail.com'}
-Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='Santana', edad=20, sexo='Masculino', domicilio='Rosas', numTel='55987623', correoElec='erick@gmail.com'}
-Cliente{nombre='Erick', aPaterno='Monroy ', aMaterno='Santana', edad=34, sexo='Masculino', domicilio='Fr', numTel='55098654', correoElec='ercik@gmail.com'}
-Cliente{nombre='Erick', aPaterno='Monroy', aMaterno='Santana', edad=20, sexo='masculino', domicilio='Fr', numTel='557836537', correoElec='erick@gmail.com'}
-Cliente{nombre='Daniel', aPaterno='M', aMaterno='D', edad=123, sexo='S', domicilio='XS', numTel='2345', correoElec='XSD'}
+Cliente{nombre='Diego', aPaterno='Luna', aMaterno='Corona', edad=45, sexo='masculino', domicilio='calle pinos #23', numTel='5598343890', correoElec='diego@gmail.com'}
+Cliente{nombre='Maria', aPaterno='Gonzalez', aMaterno='Ramirez', edad=28, sexo='femenino', domicilio='Av. Reforma #456', numTel='5551234567', correoElec='maria.gonzalez@gmail.com'}
+Cliente{nombre='Carlos', aPaterno='Mendoza', aMaterno='Torres', edad=35, sexo='masculino', domicilio='Calle Juárez #789', numTel='5552345678', correoElec='carlos.mendoza@empresa.com'}
+Cliente{nombre='Ana', aPaterno='López', aMaterno='Garcia', edad=42, sexo='femenino', domicilio='Blvd. Insurgentes #1011', numTel='5553456789', correoElec='analopez@yahoo.com'}
+Cliente{nombre='Roberto', aPaterno='Sanchez', aMaterno='Fernandez', edad=31, sexo='masculino', domicilio='Calle Rosas #223', numTel='5554567890', correoElec='roberto.sanchez@hotmail.com'}
+Cliente{nombre='Sofia', aPaterno='Ramirez', aMaterno='Martinez', edad=26, sexo='femenino', domicilio='Av. Universidad #334', numTel='5555678901', correoElec='sofia.ramirez@outlook.com'}
+Cliente{nombre='Jorge', aPaterno='Herrera', aMaterno='Castro', edad=39, sexo='masculino', domicilio='Calle Nogales #445', numTel='5556789012', correoElec='jherrera@corporacion.com'}
+Cliente{nombre='Patricia', aPaterno='Morales', aMaterno='Ortega', edad=33, sexo='femenino', domicilio='Paseo de la Luna #556', numTel='5557890123', correoElec='pmorales@consultores.com'}
+Cliente{nombre='Miguel Angel', aPaterno='Reyes', aMaterno='Vargas', edad=47, sexo='masculino', domicilio='Av. del Sol #667', numTel='5558901234', correoElec='mreyes@inversiones.com'}
+Cliente{nombre='Laura', aPaterno='Dominguez', aMaterno='Silva', edad=29, sexo='femenino', domicilio='Calle Cedros #778', numTel='5559012345', correoElec='laura.dominguez@gmail.com'}
+Cliente{nombre='Fernando', aPaterno='Castillo', aMaterno='Romero', edad=38, sexo='masculino', domicilio='Blvd. Las Flores #889', numTel='5550123456', correoElec='fcastillo@tecnologia.com'}
+Cliente{nombre='Gabriela', aPaterno='Jimenez', aMaterno='Navarro', edad=44, sexo='femenino', domicilio='Calle Alamos #990', numTel='5551234560', correoElec='gabriela.jimenez@empresa.com'}
+Cliente{nombre='Ricardo', aPaterno='Mejia', aMaterno='Delgado', edad=36, sexo='masculino', domicilio='Paseo del Valle #112', numTel='5552345601', correoElec='ricardo.mejia@consulting.com'}
+Cliente{nombre='Isabel', aPaterno='Cortes', aMaterno='Guerrero', edad=40, sexo='femenino', domicilio='Av. Libertad #223', numTel='5553456012', correoElec='isabel.cortes@hotmail.com'}
+Cliente{nombre='Eduardo', aPaterno='Rios', aMaterno='Salazar', edad=32, sexo='masculino', domicilio='Calle Robles #334', numTel='5554560123', correoElec='eduardo.rios@outlook.com'}
+Cliente{nombre='Adriana', aPaterno='Vega', aMaterno='Mendoza', edad=27, sexo='femenino', domicilio='Blvd. Central #445', numTel='5555601234', correoElec='adriana.vega@gmail.com'}
