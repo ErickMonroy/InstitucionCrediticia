@@ -105,9 +105,8 @@
 ### 3.6 Solicitud de Préstamos 💰
 <p>Apartado que nos permite cálcular y emitir los préstamos, con base a la información de su historial crediticio</p>
 <div align="center">
-  <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Solicitar_prestamo.png?raw=true" alt="Menú" width="600">
+  <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Solicitar_prestamo.png" alt="Menú" width="600">
   <p><em>Registro y Emisión de Préstamos.</em></p>
 </div>
-
 
 
