@@ -1,4 +1,4 @@
-<h1 align="center">PRESTA <br>— AHORRO —</h1> 
+<h2 align="center">PRESTA <br>— AHORRO —</h2> 
 <p align="center">
   Sistema de Gestión Crediticia 
 </p>
