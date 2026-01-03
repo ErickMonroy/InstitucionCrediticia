@@ -92,7 +92,7 @@
 <p>Sección para editar o eliminar el registro de un cliente</p>
 <div align="center">
   <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Registros.png?raw=true" alt="Menú" width="600">
-  <p><em>gestión de Registro de Clientes</em></p>
+  <p><em>Gestión de Registro de Clientes</em></p>
 </div><br>
 
 ### 3.5 Calculadora 📲
