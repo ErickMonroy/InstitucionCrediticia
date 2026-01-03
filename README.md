@@ -1,7 +1,6 @@
-<p align="center">
-![Logo del Proyecto](https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/IMG/LOGO.png?raw=true)
-  <br>Sistema de Gestión Crediticia 
-</p>
+<div align="center">
+  <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/IMG/LOGO.png?raw=true" alt="Logo del Proyecto">
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17-blue" alt="Java Version">
