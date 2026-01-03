@@ -63,4 +63,11 @@
         <maven.compiler.source>19</maven.compiler.source>
         <maven.compiler.target>19</maven.compiler.target>   
 
-![Logo del Proyecto](https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Login.png?raw=true)
+
+## 3. Interfaz del sistema
+### 3.1 Login 🔐
+<div align="center"> 
+<img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Login.png?raw=true" alt="Login" width="550"><p><em>Pantalla de inicio de sesión - Usuario y Contraseña</em></p>
+</div>
+
+
