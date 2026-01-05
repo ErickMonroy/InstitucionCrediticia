@@ -14,48 +14,15 @@
 **PRESTA AHORRO** es un sistema diseñado con el objetivo de registrar los datos de los clientes y a su vez de gestionar los prestamos solicitados.
 
 
- ## Interfaz del sistema
+
+## Interfaz del sistema
 <div align="center">
 
-<div align="center" style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; background: #f8f9fa;">
-<p style="margin-top: 0; color: #666;"><em>Desplaza horizontalmente para ver todas las capturas →</em></p>
-
-<div style="display: flex; overflow-x: auto; padding: 10px 0; gap: 15px; white-space: nowrap; -webkit-overflow-scrolling: touch;">
-  
-<div style="display: inline-block; width: 450px; flex-shrink: 0; text-align: center; background: white; padding: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Login.png?raw=true" width="430" alt="Login" style="border-radius: 3px;">
-  <p style="margin: 10px 0 0; white-space: normal;"><strong>Login</strong><br><em>Pantalla de autenticación</em></p>
-</div>
-
-<div style="display: inline-block; width: 450px; flex-shrink: 0; text-align: center; background: white; padding: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Inicio.png?raw=true" width="430" alt="Menú" style="border-radius: 3px;">
-  <p style="margin: 10px 0 0; white-space: normal;"><strong>Menú Principal</strong><br><em>Pantalla de inicio</em></p>
-</div>
-
-<div style="display: inline-block; width: 450px; flex-shrink: 0; text-align: center; background: white; padding: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Registro_inicial.png?raw=true" width="430" alt="Registro" style="border-radius: 3px;">
-  <p style="margin: 10px 0 0; white-space: normal;"><strong>Registro de Clientes</strong><br><em>Formulario de nuevo cliente</em></p>
-</div>
-
-<div style="display: inline-block; width: 450px; flex-shrink: 0; text-align: center; background: white; padding: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Registros.png?raw=true" width="430" alt="Clientes" style="border-radius: 3px;">
-  <p style="margin: 10px 0 0; white-space: normal;"><strong>Gestión de Clientes</strong><br><em>Consulta de datos de clientes</em></p>
-</div>
-
-<div style="display: inline-block; width: 450px; flex-shrink: 0; text-align: center; background: white; padding: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Solicitar_prestamo.png?raw=true" width="430" alt="Préstamo" style="border-radius: 3px;">
-  <p style="margin: 10px 0 0; white-space: normal;"><strong>Solicitud de Préstamo</strong><br><em>Cálculo y emisión de préstamos</em></p>
-</div>
-
-<div style="display: inline-block; width: 450px; flex-shrink: 0; text-align: center; background: white; padding: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Calculadora.png?raw=true" width="230" alt="Calculadora" style="border-radius: 3px;">
-  <p style="margin: 10px 0 0; white-space: normal;"><strong>Calculadora</strong><br><em>Herramienta de cálculo</em></p>
-</div>
-
-</div>
-
-<p style="margin-bottom: 0; color: #666; font-size: 0.9em;"><em>← Desplaza horizontalmente para ver todas las capturas</em></p>
-</div>
+| Login | Menú Principal | Registro |
+|:---:|:---:|:---:|
+| <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Login.png?raw=true" width="280" alt="Login"><br>| <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Inicio.png?raw=true" width="270" alt="Menú"><br> | <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Registro_inicial.png?raw=true" width="250" alt="Registro"><br> |
+| **Gestión de Clientes** | **Solicitud de Préstamo** | **Calculadora** |
+| <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Registros.png?raw=true" width="230" alt="Clientes"><br> | <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Solicitar_prestamo.png?raw=true" width="250" alt="Préstamo"><br> | <img src="https://github.com/ErickMonroy/InstitucionCrediticia/blob/main/README_IMG/Calculadora.png?raw=true" width="150" alt="Calculadora"><br> |
 
 </div>
 
